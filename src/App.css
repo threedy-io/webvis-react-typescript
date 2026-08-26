@@ -15,6 +15,7 @@
 	align-items: stretch;
 	justify-items: stretch;
 	background-color: var(--threedy-dark-blue);
+	text-align: initial;
 }
 
 .overlay-button {
